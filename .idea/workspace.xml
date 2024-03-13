@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5010c889-a62c-4984-9305-34e760857548" name="Changes" comment="" />
+    <list default="true" id="5010c889-a62c-4984-9305-34e760857548" name="Changes" comment="added files functions&#10;font sie = 22" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="mark" />
+        <option value="Mark" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
@@ -90,12 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1710327241673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added files functions">
+      <option name="closed" value="true" />
+      <created>1710327835788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710327835788</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ping pong game project" />
-    <option name="LAST_COMMIT_MESSAGE" value="ping pong game project" />
+    <MESSAGE value="added files functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

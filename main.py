@@ -43,6 +43,7 @@ while game_is_on:
         scoreboard.l_point_score()
         ball.reset_game()
 
+    # scoring one
     if ball.xcor() < -390:
         scoreboard.r_point_score()
         ball.reset_game()
